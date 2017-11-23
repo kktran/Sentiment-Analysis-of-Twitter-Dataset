@@ -1,0 +1,2 @@
+data: https://docs.google.com/file/d/0B04GJPshIjmPRnZManQwWEdTZjg/edit
+word embeddings: https://nlp.stanford.edu/projects/glove/
